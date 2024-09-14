@@ -1,12 +1,2 @@
-# Questions
-
-
-Ask us questions about **anything** related to Open Source! To add your question, create an issue in this repository.
-
-Just a few guidelines to remember before you ask a question:
-
-- Ensure your question hasn't already been answered. If it has been answered but does not satisfy you, feel free to comment in the issue and we will re-open it.
-- Use a succinct title and description.
-- If your question has already been asked and answered adequately, please add a thumbs-up (or the emoji of your choice!) to the issue. This helps us in identifying common problems that people usually face.
-- Lastly, be civil and polite. :)
-
+Hi everyone, can anybody tell me how much time it usally takes to create a Spark Session in Jupyter notebook, for my case it's more than 16 hours and it's still on process.
+My S/S confing 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz   1.38 GHz, 8gb ram(7.73 GB usable).
